@@ -1,0 +1,552 @@
+Player,Pos,Age,Team,Birth Date
+Alex Abrines,SG,23.0,Oklahoma City Thunder,1993-08-01
+Quincy Acy,PF,26.0,Dallas Mavericks,1990-10-06
+Quincy Acy,PF,26.0,Brooklyn Nets,1990-10-06
+Steven Adams,C,23.0,Oklahoma City Thunder,1993-07-20
+Arron Afflalo,SG,31.0,Sacramento Kings,1985-10-15
+Alexis Ajinca,C,28.0,New Orleans Pelicans,1988-05-06
+Cole Aldrich,C,28.0,Minnesota Timberwolves,1988-10-31
+LaMarcus Aldridge,PF,31.0,San Antonio Spurs,1985-07-19
+Lavoy Allen,PF,27.0,Indiana Pacers,1989-02-04
+Tony Allen,SG,35.0,Memphis Grizzlies,1982-01-11
+Al-Farouq Aminu,SF,26.0,Portland Trail Blazers,1990-09-21
+Chris Andersen,C,38.0,Cleveland Cavaliers,1978-07-07
+Alan Anderson,SF,34.0,Los Angeles Clippers,1982-10-16
+Justin Anderson,SF,23.0,Dallas Mavericks,1993-11-19
+Justin Anderson,SF,23.0,Philadelphia 76ers,1993-11-19
+Kyle Anderson,SG,23.0,San Antonio Spurs,1993-09-20
+Ryan Anderson,PF,28.0,Houston Rockets,1988-05-06
+Giannis Antetokounmpo,SF,22.0,Milwaukee Bucks,1994-12-06
+Carmelo Anthony,SF,32.0,New York Knicks,1984-05-29
+Joel Anthony,C,34.0,San Antonio Spurs,1982-08-09
+Trevor Ariza,SF,31.0,Houston Rockets,1985-06-30
+Darrell Arthur,PF,28.0,Denver Nuggets,1988-03-25
+Omer Asik,C,30.0,New Orleans Pelicans,1986-07-04
+D.J. Augustin,PG,29.0,Orlando Magic,1987-11-10
+Luke Babbitt,SF,27.0,Miami Heat,1989-06-20
+Ron Baker,SG,23.0,New York Knicks,1993-03-30
+Wade Baldwin,PG,20.0,Memphis Grizzlies,1996-03-29
+Leandro Barbosa,SG,34.0,Phoenix Suns,1982-11-28
+J.J. Barea,PG,32.0,Dallas Mavericks,1984-06-26
+Harrison Barnes,PF,24.0,Dallas Mavericks,1992-05-30
+Matt Barnes,SF,36.0,Sacramento Kings,1980-03-09
+Matt Barnes,SF,36.0,Golden State Warriors,1980-03-09
+Will Barton,SG,26.0,Denver Nuggets,1991-01-06
+Brandon Bass,PF,31.0,Los Angeles Clippers,1985-04-30
+Nicolas Batum,SG,28.0,Charlotte Hornets,1988-12-14
+Jerryd Bayless,PG,28.0,Philadelphia 76ers,1988-08-20
+Aron Baynes,C,30.0,Detroit Pistons,1986-12-09
+Kent Bazemore,SF,27.0,Atlanta Hawks,1989-07-01
+Bradley Beal,SG,23.0,Washington Wizards,1993-06-28
+Malik Beasley,SG,20.0,Denver Nuggets,1996-11-26
+Michael Beasley,PF,28.0,Milwaukee Bucks,1989-01-09
+Marco Belinelli,SG,30.0,Charlotte Hornets,1986-03-25
+DeAndre' Bembry,SF,22.0,Atlanta Hawks,1994-07-04
+Dragan Bender,PF,19.0,Phoenix Suns,1997-11-17
+Anthony Bennett,PF,23.0,Brooklyn Nets,1993-03-14
+Ben Bentil,PF,21.0,Dallas Mavericks,1995-03-29
+Davis Bertans,PF,24.0,San Antonio Spurs,1992-11-12
+Patrick Beverley,SG,28.0,Houston Rockets,1988-07-12
+Bismack Biyombo,C,24.0,Orlando Magic,1992-08-28
+Nemanja Bjelica,PF,28.0,Minnesota Timberwolves,1988-05-09
+Tarik Black,C,25.0,Los Angeles Lakers,1991-11-22
+Eric Bledsoe,PG,27.0,Phoenix Suns,1989-12-09
+Bojan Bogdanovic,SF,27.0,Brooklyn Nets,1989-04-18
+Bojan Bogdanovic,SF,27.0,Washington Wizards,1989-04-18
+Andrew Bogut,C,32.0,Dallas Mavericks,1984-11-28
+Andrew Bogut,C,32.0,Cleveland Cavaliers,1984-11-28
+Joel Bolomboy,PF,23.0,Utah Jazz,1994-01-28
+Devin Booker,SG,20.0,Phoenix Suns,1996-10-30
+Trevor Booker,PF,29.0,Brooklyn Nets,1987-11-25
+Avery Bradley,SG,26.0,Boston Celtics,1990-11-26
+Corey Brewer,SF,30.0,Houston Rockets,1986-03-05
+Corey Brewer,SF,30.0,Los Angeles Lakers,1986-03-05
+Malcolm Brogdon,SG,24.0,Milwaukee Bucks,1992-12-11
+Aaron Brooks,PG,32.0,Indiana Pacers,1985-01-14
+Anthony Brown,SF,24.0,New Orleans Pelicans,1992-10-10
+Anthony Brown,SF,24.0,Orlando Magic,1992-10-10
+Bobby Brown,PG,32.0,Houston Rockets,1984-09-24
+Jaylen Brown,SF,20.0,Boston Celtics,1996-10-24
+Nicolas Brussino,SF,23.0,Dallas Mavericks,1993-03-02
+Reggie Bullock,SF,25.0,Detroit Pistons,1991-03-16
+Trey Burke,PG,24.0,Washington Wizards,1992-11-12
+Alec Burks,SG,25.0,Utah Jazz,1991-07-20
+Jimmy Butler,SF,27.0,Chicago Bulls,1989-09-14
+Bruno Caboclo,SF,21.0,Toronto Raptors,1995-09-21
+Jose Calderon,PG,35.0,Los Angeles Lakers,1981-09-28
+Jose Calderon,PG,35.0,Atlanta Hawks,1981-09-28
+Kentavious Caldwell-Pope,SG,23.0,Detroit Pistons,1993-02-18
+Isaiah Canaan,SG,25.0,Chicago Bulls,1991-05-21
+Clint Capela,C,22.0,Houston Rockets,1994-05-18
+DeMarre Carroll,SF,30.0,Toronto Raptors,1986-07-27
+Vince Carter,SF,40.0,Memphis Grizzlies,1977-01-26
+Michael Carter-Williams,PG,25.0,Chicago Bulls,1991-10-10
+Omri Casspi,SF,28.0,Sacramento Kings,1988-06-22
+Omri Casspi,SF,28.0,New Orleans Pelicans,1988-06-22
+Omri Casspi,SF,28.0,Minnesota Timberwolves,1988-06-22
+Willie Cauley-Stein,C,23.0,Sacramento Kings,1993-08-18
+Tyson Chandler,C,34.0,Phoenix Suns,1982-10-02
+Wilson Chandler,SF,29.0,Denver Nuggets,1987-05-10
+Marquese Chriss,PF,19.0,Phoenix Suns,1997-07-02
+Rakeem Christmas,PF,25.0,Indiana Pacers,1991-12-01
+Semaj Christon,PG,24.0,Oklahoma City Thunder,1992-11-01
+Ian Clark,SG,25.0,Golden State Warriors,1991-03-07
+Jordan Clarkson,SG,24.0,Los Angeles Lakers,1992-06-07
+Norris Cole,PG,28.0,Oklahoma City Thunder,1988-10-13
+Darren Collison,PG,29.0,Sacramento Kings,1987-08-23
+Nick Collison,PF,36.0,Oklahoma City Thunder,1980-10-26
+Mike Conley,PG,29.0,Memphis Grizzlies,1987-10-11
+Pat Connaughton,SG,24.0,Portland Trail Blazers,1993-01-06
+Quinn Cook,PG,23.0,Dallas Mavericks,1993-03-23
+Quinn Cook,PG,23.0,New Orleans Pelicans,1993-03-23
+DeMarcus Cousins,C,26.0,Sacramento Kings,1990-08-13
+DeMarcus Cousins,C,26.0,New Orleans Pelicans,1990-08-13
+Robert Covington,SF,26.0,Philadelphia 76ers,1990-12-14
+Allen Crabbe,SG,24.0,Portland Trail Blazers,1992-04-09
+Jamal Crawford,SG,36.0,Los Angeles Clippers,1980-03-20
+Jordan Crawford,SG,28.0,New Orleans Pelicans,1988-10-23
+Jae Crowder,SF,26.0,Boston Celtics,1990-07-06
+Dante Cunningham,SF,29.0,New Orleans Pelicans,1987-04-22
+Seth Curry,PG,26.0,Dallas Mavericks,1990-08-23
+Stephen Curry,PG,28.0,Golden State Warriors,1988-03-14
+Troy Daniels,SG,25.0,Memphis Grizzlies,1991-07-15
+Anthony Davis,C,23.0,New Orleans Pelicans,1993-03-11
+Deyonta Davis,C,20.0,Memphis Grizzlies,1996-12-02
+Ed Davis,PF,27.0,Portland Trail Blazers,1989-06-05
+Dewayne Dedmon,C,27.0,San Antonio Spurs,1989-08-12
+Sam Dekker,SF,22.0,Houston Rockets,1994-05-06
+Malcolm Delaney,PG,27.0,Atlanta Hawks,1989-03-11
+Matthew Dellavedova,PG,26.0,Milwaukee Bucks,1990-09-08
+Luol Deng,SF,31.0,Los Angeles Lakers,1985-04-16
+DeMar DeRozan,SG,27.0,Toronto Raptors,1989-08-07
+Cheick Diallo,PF,20.0,New Orleans Pelicans,1996-09-13
+Boris Diaw,PF,34.0,Utah Jazz,1982-04-16
+Gorgui Dieng,PF,27.0,Minnesota Timberwolves,1990-01-18
+Spencer Dinwiddie,PG,23.0,Brooklyn Nets,1993-04-06
+Toney Douglas,PG,30.0,Memphis Grizzlies,1986-03-16
+Goran Dragic,PG,30.0,Miami Heat,1986-05-06
+Andre Drummond,C,23.0,Detroit Pistons,1993-08-10
+Jared Dudley,PF,31.0,Phoenix Suns,1985-07-10
+Mike Dunleavy,SF,36.0,Cleveland Cavaliers,1954-03-21
+Mike Dunleavy,SF,36.0,Cleveland Cavaliers,1980-09-15
+Mike Dunleavy,SF,36.0,Atlanta Hawks,1954-03-21
+Mike Dunleavy,SF,36.0,Atlanta Hawks,1980-09-15
+Kris Dunn,PG,22.0,Minnesota Timberwolves,1994-03-18
+Kevin Durant,SF,28.0,Golden State Warriors,1988-09-29
+Jarell Eddie,SF,25.0,Phoenix Suns,1991-10-30
+Henry Ellenson,PF,20.0,Detroit Pistons,1997-01-13
+Wayne Ellington,SG,29.0,Miami Heat,1987-10-29
+Monta Ellis,SG,31.0,Indiana Pacers,1985-10-26
+Joel Embiid,C,22.0,Philadelphia 76ers,1994-03-16
+James Ennis,SF,26.0,Memphis Grizzlies,1990-07-01
+Tyler Ennis,PG,22.0,Houston Rockets,1994-08-24
+Tyler Ennis,PG,22.0,Los Angeles Lakers,1994-08-24
+Tyreke Evans,SF,27.0,New Orleans Pelicans,1989-09-19
+Tyreke Evans,SF,27.0,Sacramento Kings,1989-09-19
+Dante Exum,PG,21.0,Utah Jazz,1995-07-13
+Kenneth Faried,PF,27.0,Denver Nuggets,1989-11-19
+Jordan Farmar,PG,30.0,Sacramento Kings,1986-11-30
+Derrick Favors,PF,25.0,Utah Jazz,1991-07-15
+Kay Felder,PG,21.0,Cleveland Cavaliers,1995-03-29
+Cristiano Felicio,C,24.0,Chicago Bulls,1992-07-07
+Raymond Felton,PG,32.0,Los Angeles Clippers,1984-06-26
+Yogi Ferrell,PG,23.0,Brooklyn Nets,1993-05-09
+Yogi Ferrell,PG,23.0,Dallas Mavericks,1993-05-09
+Dorian Finney-Smith,PF,23.0,Dallas Mavericks,1993-05-04
+Bryn Forbes,SG,23.0,San Antonio Spurs,1993-07-23
+Evan Fournier,SG,24.0,Orlando Magic,1992-10-29
+Randy Foye,SG,33.0,Brooklyn Nets,1983-09-24
+Tim Frazier,PG,26.0,New Orleans Pelicans,1990-11-01
+Channing Frye,C,33.0,Cleveland Cavaliers,1983-05-17
+Danilo Gallinari,SF,28.0,Denver Nuggets,1988-08-08
+Langston Galloway,PG,25.0,New Orleans Pelicans,1991-12-09
+Langston Galloway,PG,25.0,Sacramento Kings,1991-12-09
+Patricio Garino,SG,23.0,Orlando Magic,1993-05-17
+Marc Gasol,C,32.0,Memphis Grizzlies,1985-01-29
+Pau Gasol,C,36.0,San Antonio Spurs,1980-07-06
+Rudy Gay,SF,30.0,Sacramento Kings,1986-08-17
+Michael Gbinije,SG,24.0,Detroit Pistons,1992-06-05
+Alonzo Gee,SF,29.0,Denver Nuggets,1987-05-29
+Paul George,SF,26.0,Indiana Pacers,1990-05-02
+Marcus Georges-Hunt,SG,22.0,Orlando Magic,1994-03-28
+Jonathan Gibson,PG,29.0,Dallas Mavericks,1987-11-08
+Taj Gibson,PF,31.0,Chicago Bulls,1985-06-24
+Taj Gibson,PF,31.0,Oklahoma City Thunder,1985-06-24
+Manu Ginobili,SG,39.0,San Antonio Spurs,1977-07-28
+Rudy Gobert,C,24.0,Utah Jazz,1992-06-26
+Archie Goodwin,SG,22.0,New Orleans Pelicans,1994-08-17
+Archie Goodwin,SG,22.0,Brooklyn Nets,1994-08-17
+Aaron Gordon,SF,21.0,Orlando Magic,1995-09-16
+Eric Gordon,SG,28.0,Houston Rockets,1988-12-25
+Marcin Gortat,C,32.0,Washington Wizards,1984-02-17
+Treveon Graham,SG,23.0,Charlotte Hornets,1993-10-29
+Jerami Grant,SF,22.0,Philadelphia 76ers,1994-03-12
+Jerami Grant,SF,22.0,Oklahoma City Thunder,1994-03-12
+Jerian Grant,PG,24.0,Chicago Bulls,1992-10-09
+Danny Green,SG,29.0,San Antonio Spurs,1987-06-22
+Draymond Green,PF,26.0,Golden State Warriors,1990-03-04
+Gerald Green,SF,31.0,Boston Celtics,1986-01-26
+JaMychal Green,PF,26.0,Memphis Grizzlies,1990-06-21
+Jeff Green,PF,30.0,Orlando Magic,1986-08-28
+Blake Griffin,PF,27.0,Los Angeles Clippers,1989-03-16
+Justin Hamilton,C,26.0,Brooklyn Nets,1990-04-01
+A.J. Hammons,C,24.0,Dallas Mavericks,1992-08-27
+Tim Hardaway,SG,24.0,Atlanta Hawks,1966-09-01
+Tim Hardaway,SG,24.0,Atlanta Hawks,1992-03-16
+James Harden,PG,27.0,Houston Rockets,1989-08-26
+Maurice Harkless,SF,23.0,Portland Trail Blazers,1993-05-11
+Justin Harper,PF,27.0,Philadelphia 76ers,1989-08-30
+Montrezl Harrell,C,23.0,Houston Rockets,1994-01-26
+Devin Harris,PG,33.0,Dallas Mavericks,1983-02-27
+Gary Harris,SG,22.0,Denver Nuggets,1994-09-14
+Joe Harris,SG,25.0,Brooklyn Nets,1991-09-06
+Manny Harris,SG,27.0,Dallas Mavericks,1989-09-21
+Tobias Harris,PF,24.0,Detroit Pistons,1992-07-15
+Aaron Harrison,SG,22.0,Charlotte Hornets,1994-10-28
+Andrew Harrison,PG,22.0,Memphis Grizzlies,1994-10-28
+Udonis Haslem,C,36.0,Miami Heat,1980-06-09
+Spencer Hawes,PF,28.0,Charlotte Hornets,1988-04-28
+Spencer Hawes,PF,28.0,Milwaukee Bucks,1988-04-28
+Gordon Hayward,SF,26.0,Utah Jazz,1990-03-23
+Gerald Henderson,SG,29.0,Philadelphia 76ers,1956-01-16
+Gerald Henderson,SG,29.0,Philadelphia 76ers,1987-12-09
+John Henson,C,26.0,Milwaukee Bucks,1990-12-28
+Juan Hernangomez,PF,21.0,Denver Nuggets,1995-09-28
+Willy Hernangomez,C,22.0,New York Knicks,1994-05-27
+Mario Hezonja,SF,21.0,Orlando Magic,1995-02-25
+Roy Hibbert,C,30.0,Charlotte Hornets,1986-12-11
+Roy Hibbert,C,30.0,Denver Nuggets,1986-12-11
+Buddy Hield,SG,23.0,New Orleans Pelicans,1993-12-17
+Buddy Hield,SG,23.0,Sacramento Kings,1993-12-17
+Nene Hilario,C,34.0,Houston Rockets,1982-09-13
+George Hill,PG,30.0,Utah Jazz,1986-05-04
+Jordan Hill,C,29.0,Minnesota Timberwolves,1987-07-27
+Solomon Hill,SF,25.0,New Orleans Pelicans,1991-03-18
+Darrun Hilliard,SG,23.0,Detroit Pistons,1993-04-13
+Jrue Holiday,PG,26.0,New Orleans Pelicans,1990-06-12
+Justin Holiday,SG,27.0,New York Knicks,1989-04-05
+Rondae Hollis-Jefferson,SF,22.0,Brooklyn Nets,1995-01-03
+Richaun Holmes,C,23.0,Philadelphia 76ers,1993-10-15
+Rodney Hood,SG,24.0,Utah Jazz,1992-10-20
+Al Horford,C,30.0,Boston Celtics,1986-06-03
+Danuel House,SG,23.0,Washington Wizards,1993-06-07
+Dwight Howard,C,31.0,Atlanta Hawks,1985-12-08
+Marcelo Huertas,PG,33.0,Los Angeles Lakers,1983-05-25
+Josh Huestis,PF,25.0,Oklahoma City Thunder,1991-12-19
+Kris Humphries,PF,31.0,Atlanta Hawks,1985-02-06
+R.J. Hunter,SG,23.0,Chicago Bulls,1993-10-24
+Serge Ibaka,PF,27.0,Orlando Magic,1989-09-18
+Serge Ibaka,PF,27.0,Toronto Raptors,1989-09-18
+Andre Iguodala,SF,33.0,Golden State Warriors,1984-01-28
+Ersan Ilyasova,PF,29.0,Oklahoma City Thunder,1987-05-15
+Ersan Ilyasova,PF,29.0,Philadelphia 76ers,1987-05-15
+Ersan Ilyasova,PF,29.0,Atlanta Hawks,1987-05-15
+Joe Ingles,SF,29.0,Utah Jazz,1987-10-02
+Brandon Ingram,SF,19.0,Los Angeles Lakers,1997-09-02
+Kyrie Irving,PG,24.0,Cleveland Cavaliers,1992-03-23
+Jarrett Jack,PG,33.0,New Orleans Pelicans,1983-10-28
+Demetrius Jackson,PG,22.0,Boston Celtics,1994-09-07
+Pierre Jackson,PG,25.0,Dallas Mavericks,1991-08-29
+Reggie Jackson,PG,26.0,Detroit Pistons,1990-04-16
+LeBron James,SF,32.0,Cleveland Cavaliers,1984-12-30
+Al Jefferson,C,32.0,Indiana Pacers,1985-01-04
+Richard Jefferson,SF,36.0,Cleveland Cavaliers,1980-06-21
+John Jenkins,SG,25.0,Phoenix Suns,1991-03-06
+Brandon Jennings,PG,27.0,New York Knicks,1989-09-23
+Brandon Jennings,PG,27.0,Washington Wizards,1989-09-23
+Jonas Jerebko,PF,29.0,Boston Celtics,1987-03-02
+Amir Johnson,PF,29.0,Boston Celtics,1987-05-01
+Brice Johnson,PF,22.0,Los Angeles Clippers,1994-06-27
+James Johnson,PF,29.0,Miami Heat,1987-02-20
+Joe Johnson,SF,35.0,Utah Jazz,1981-06-29
+Stanley Johnson,SF,20.0,Detroit Pistons,1996-05-29
+Tyler Johnson,PG,24.0,Miami Heat,1992-05-07
+Wesley Johnson,SF,29.0,Los Angeles Clippers,1987-07-11
+Nikola Jokic,C,21.0,Denver Nuggets,1995-02-19
+Dahntay Jones,SF,36.0,Cleveland Cavaliers,1980-12-27
+Damian Jones,C,21.0,Golden State Warriors,1995-06-30
+Derrick Jones,SF,19.0,Phoenix Suns,1997-02-15
+James Jones,SF,36.0,Cleveland Cavaliers,1980-10-04
+Terrence Jones,PF,25.0,New Orleans Pelicans,1992-01-09
+Terrence Jones,PF,25.0,Milwaukee Bucks,1992-01-09
+Tyus Jones,PG,20.0,Minnesota Timberwolves,1996-05-10
+DeAndre Jordan,C,28.0,Los Angeles Clippers,1988-07-21
+Cory Joseph,SG,25.0,Toronto Raptors,1991-08-20
+Frank Kaminsky,C,23.0,Charlotte Hornets,1993-04-04
+Enes Kanter,C,24.0,Oklahoma City Thunder,1992-05-20
+Ryan Kelly,PF,25.0,Atlanta Hawks,1991-04-09
+Michael Kidd-Gilchrist,SF,23.0,Charlotte Hornets,1993-09-26
+Sean Kilpatrick,SG,27.0,Brooklyn Nets,1990-01-06
+Brandon Knight,SG,25.0,Phoenix Suns,1991-12-02
+Kyle Korver,SG,35.0,Atlanta Hawks,1981-03-17
+Kyle Korver,SG,35.0,Cleveland Cavaliers,1981-03-17
+Kosta Koufos,C,27.0,Sacramento Kings,1989-02-24
+Mindaugas Kuzminskas,SF,27.0,New York Knicks,1989-10-19
+Skal Labissiere,PF,20.0,Sacramento Kings,1996-03-18
+Jeremy Lamb,SG,24.0,Charlotte Hornets,1992-05-30
+Nicolas Laprovittola,PG,27.0,San Antonio Spurs,1990-01-31
+Joffrey Lauvergne,PF,25.0,Oklahoma City Thunder,1991-09-30
+Joffrey Lauvergne,C,25.0,Chicago Bulls,1991-09-30
+Zach LaVine,SG,21.0,Minnesota Timberwolves,1995-03-10
+Ty Lawson,PG,29.0,Sacramento Kings,1987-11-03
+Jake Layman,SF,22.0,Portland Trail Blazers,1994-03-07
+Courtney Lee,SG,31.0,New York Knicks,1985-10-03
+David Lee,PF,33.0,San Antonio Spurs,1942-03-31
+David Lee,PF,33.0,San Antonio Spurs,1983-04-29
+Alex Len,C,23.0,Phoenix Suns,1993-06-16
+Kawhi Leonard,SF,25.0,San Antonio Spurs,1991-06-29
+Meyers Leonard,PF,24.0,Portland Trail Blazers,1992-02-27
+Jon Leuer,PF,27.0,Detroit Pistons,1989-05-14
+Caris LeVert,SF,22.0,Brooklyn Nets,1994-08-25
+DeAndre Liggins,SG,28.0,Cleveland Cavaliers,1988-03-31
+DeAndre Liggins,SG,28.0,Dallas Mavericks,1988-03-31
+Damian Lillard,PG,26.0,Portland Trail Blazers,1990-07-15
+Jeremy Lin,PG,28.0,Brooklyn Nets,1988-08-23
+Shaun Livingston,PG,31.0,Golden State Warriors,1985-09-11
+Shawn Long,C,24.0,Philadelphia 76ers,1993-01-29
+Kevon Looney,C,20.0,Golden State Warriors,1996-02-06
+Brook Lopez,C,28.0,Brooklyn Nets,1988-04-01
+Robin Lopez,C,28.0,Chicago Bulls,1988-04-01
+Kevin Love,PF,28.0,Cleveland Cavaliers,1988-09-07
+Kyle Lowry,PG,30.0,Toronto Raptors,1986-03-25
+John Lucas,PG,34.0,Minnesota Timberwolves,1953-10-31
+Timothe Luwawu-Cabarrot,SF,21.0,Philadelphia 76ers,1995-05-09
+Trey Lyles,PF,21.0,Utah Jazz,1995-11-05
+Shelvin Mack,PG,26.0,Utah Jazz,1990-04-22
+Ian Mahinmi,C,30.0,Washington Wizards,1986-11-05
+Thon Maker,C,19.0,Milwaukee Bucks,1997-02-25
+Boban Marjanovic,C,28.0,Detroit Pistons,1988-08-15
+Jarell Martin,PF,22.0,Memphis Grizzlies,1994-05-24
+Wesley Matthews,SG,30.0,Dallas Mavericks,1986-10-14
+Luc Mbah a Moute,SF,30.0,Los Angeles Clippers,1986-09-09
+James Michael McAdoo,PF,24.0,Golden State Warriors,1993-01-04
+Patrick McCaw,SG,21.0,Golden State Warriors,1995-10-25
+Sheldon Mac,SG,24.0,Washington Wizards,1992-12-21
+C.J. McCollum,SG,25.0,Portland Trail Blazers,1991-09-19
+T.J. McConnell,PG,24.0,Philadelphia 76ers,1992-03-25
+Chris McCullough,PF,21.0,Brooklyn Nets,1995-02-05
+Chris McCullough,PF,21.0,Washington Wizards,1995-02-05
+K.J. McDaniels,SF,23.0,Houston Rockets,1993-02-09
+K.J. McDaniels,SF,23.0,Brooklyn Nets,1993-02-09
+Doug McDermott,SF,25.0,Chicago Bulls,1992-01-03
+Doug McDermott,SF,25.0,Oklahoma City Thunder,1992-01-03
+JaVale McGee,C,29.0,Golden State Warriors,1988-01-19
+Rodney McGruder,SG,25.0,Miami Heat,1991-07-29
+Ben McLemore,SG,23.0,Sacramento Kings,1993-02-11
+Jordan McRae,SG,25.0,Cleveland Cavaliers,1991-03-28
+Josh McRoberts,PF,29.0,Miami Heat,1987-02-28
+Jodie Meeks,SG,29.0,Orlando Magic,1987-08-21
+Salah Mejri,C,30.0,Dallas Mavericks,1986-06-15
+Jordan Mickey,PF,22.0,Boston Celtics,1994-07-09
+Khris Middleton,SF,25.0,Milwaukee Bucks,1991-08-12
+C.J. Miles,SF,29.0,Indiana Pacers,1987-04-18
+Mike Miller,SF,36.0,Denver Nuggets,1980-02-19
+Patty Mills,PG,28.0,San Antonio Spurs,1988-08-11
+Elijah Millsap,SG,29.0,Phoenix Suns,1987-08-12
+Paul Millsap,PF,31.0,Atlanta Hawks,1985-02-10
+Nikola Mirotic,PF,25.0,Chicago Bulls,1991-02-11
+Greg Monroe,C,26.0,Milwaukee Bucks,1990-06-04
+E'Twaun Moore,SG,27.0,New Orleans Pelicans,1989-02-28
+Marcus Morris,SF,27.0,Detroit Pistons,1989-09-02
+Markieff Morris,PF,27.0,Washington Wizards,1989-09-02
+Anthony Morrow,SG,31.0,Oklahoma City Thunder,1985-09-27
+Anthony Morrow,SG,31.0,Chicago Bulls,1985-09-27
+Donatas Motiejunas,PF,26.0,New Orleans Pelicans,1990-09-20
+Timofey Mozgov,C,30.0,Los Angeles Lakers,1986-07-16
+Emmanuel Mudiay,PG,20.0,Denver Nuggets,1996-03-05
+Shabazz Muhammad,SF,24.0,Minnesota Timberwolves,1992-11-13
+Dejounte Murray,PG,20.0,San Antonio Spurs,1996-09-19
+Jamal Murray,SG,19.0,Denver Nuggets,1997-02-23
+Mike Muscala,C,25.0,Atlanta Hawks,1991-07-01
+Larry Nance,PF,24.0,Los Angeles Lakers,1959-02-12
+Larry Nance,PF,24.0,Los Angeles Lakers,1993-01-01
+Shabazz Napier,PG,25.0,Portland Trail Blazers,1991-07-14
+Maurice Ndour,PF,24.0,New York Knicks,1992-06-18
+Gary Neal,SG,32.0,Atlanta Hawks,1984-10-03
+Jameer Nelson,PG,34.0,Denver Nuggets,1982-02-09
+Raul Neto,PG,24.0,Utah Jazz,1992-05-19
+Georges Niang,PF,23.0,Indiana Pacers,1993-06-17
+Andrew Nicholson,PF,27.0,Washington Wizards,1989-12-08
+Andrew Nicholson,PF,27.0,Brooklyn Nets,1989-12-08
+Joakim Noah,C,31.0,New York Knicks,1985-02-25
+Nerlens Noel,C,22.0,Philadelphia 76ers,1994-04-10
+Nerlens Noel,C,22.0,Dallas Mavericks,1994-04-10
+Lucas Nogueira,C,24.0,Toronto Raptors,1992-07-26
+Steve Novak,PF,33.0,Milwaukee Bucks,1983-06-13
+Dirk Nowitzki,PF,38.0,Dallas Mavericks,1978-06-19
+Jusuf Nurkic,C,22.0,Denver Nuggets,1994-08-23
+Jusuf Nurkic,C,22.0,Portland Trail Blazers,1994-08-23
+David Nwaba,SG,24.0,Los Angeles Lakers,1993-01-14
+Johnny O'Bryant,PF,23.0,Denver Nuggets,1993-06-01
+Johnny O'Bryant,PF,23.0,Charlotte Hornets,1993-06-01
+Kyle O'Quinn,C,26.0,New York Knicks,1990-03-26
+Daniel Ochefu,C,23.0,Washington Wizards,1993-12-15
+Jahlil Okafor,C,21.0,Philadelphia 76ers,1995-12-15
+Victor Oladipo,SG,24.0,Oklahoma City Thunder,1992-05-04
+Kelly Olynyk,C,25.0,Boston Celtics,1991-04-19
+Arinze Onuaku,C,29.0,Orlando Magic,1987-07-13
+Chinanu Onuaku,C,20.0,Houston Rockets,1996-11-01
+Kelly Oubre,SF,21.0,Washington Wizards,1995-12-09
+Zaza Pachulia,C,32.0,Golden State Warriors,1984-02-10
+Georgios Papagiannis,C,19.0,Sacramento Kings,1997-07-03
+Jabari Parker,PF,21.0,Milwaukee Bucks,1995-03-15
+Tony Parker,PG,34.0,San Antonio Spurs,1982-05-17
+Chandler Parsons,SF,28.0,Memphis Grizzlies,1988-10-25
+Lamar Patterson,SG,25.0,Atlanta Hawks,1991-08-12
+Patrick Patterson,PF,27.0,Toronto Raptors,1989-03-14
+Chris Paul,PG,31.0,Los Angeles Clippers,1985-05-06
+Adreian Payne,PF,25.0,Minnesota Timberwolves,1991-02-19
+Cameron Payne,PG,22.0,Oklahoma City Thunder,1994-08-08
+Cameron Payne,PG,22.0,Chicago Bulls,1994-08-08
+Elfrid Payton,PG,22.0,Orlando Magic,1994-02-22
+Gary Payton,PG,24.0,Milwaukee Bucks,1968-07-23
+Gary Payton,PG,24.0,Milwaukee Bucks,1992-12-01
+Paul Pierce,SF,39.0,Los Angeles Clippers,1977-10-13
+Marshall Plumlee,C,24.0,New York Knicks,1992-07-14
+Mason Plumlee,C,26.0,Portland Trail Blazers,1990-03-05
+Mason Plumlee,C,26.0,Denver Nuggets,1990-03-05
+Miles Plumlee,C,28.0,Milwaukee Bucks,1988-09-01
+Miles Plumlee,C,28.0,Charlotte Hornets,1988-09-01
+Jakob Poeltl,C,21.0,Toronto Raptors,1995-10-15
+Otto Porter,SF,23.0,Washington Wizards,1993-06-03
+Bobby Portis,PF,21.0,Chicago Bulls,1995-02-10
+Kristaps Porzingis,PF,21.0,New York Knicks,1995-08-02
+Dwight Powell,C,25.0,Dallas Mavericks,1991-07-20
+Norman Powell,SG,23.0,Toronto Raptors,1993-05-25
+Alex Poythress,PF,23.0,Philadelphia 76ers,1993-09-06
+Ronnie Price,PG,33.0,Phoenix Suns,1983-06-21
+Tim Quarterman,SG,22.0,Portland Trail Blazers,1994-10-27
+Chasson Randle,PG,23.0,Philadelphia 76ers,1993-02-05
+Chasson Randle,PG,23.0,New York Knicks,1993-02-05
+Julius Randle,PF,22.0,Los Angeles Lakers,1994-11-29
+Zach Randolph,PF,35.0,Memphis Grizzlies,1981-07-16
+J.J. Redick,SG,32.0,Los Angeles Clippers,1984-06-24
+Willie Reed,C,26.0,Miami Heat,1990-05-16
+Josh Richardson,SG,23.0,Miami Heat,1993-09-15
+Malachi Richardson,SG,21.0,Sacramento Kings,1996-01-05
+Austin Rivers,SG,24.0,Los Angeles Clippers,1992-08-01
+Andre Roberson,SF,25.0,Oklahoma City Thunder,1991-12-04
+Brian Roberts,PG,31.0,Charlotte Hornets,1985-12-03
+Glenn Robinson,SF,23.0,Indiana Pacers,1973-01-10
+Glenn Robinson,SF,23.0,Indiana Pacers,1994-01-08
+Thomas Robinson,PF,25.0,Los Angeles Lakers,1991-03-17
+Sergio Rodriguez,PG,30.0,Philadelphia 76ers,1986-06-12
+Rajon Rondo,PG,30.0,Chicago Bulls,1986-02-22
+Derrick Rose,PG,28.0,New York Knicks,1988-10-04
+Terrence Ross,SF,25.0,Toronto Raptors,1991-02-05
+Terrence Ross,SF,25.0,Orlando Magic,1991-02-05
+Terry Rozier,PG,22.0,Boston Celtics,1994-03-17
+Ricky Rubio,PG,26.0,Minnesota Timberwolves,1990-10-21
+Damjan Rudez,SF,30.0,Orlando Magic,1986-06-17
+Brandon Rush,SG,31.0,Minnesota Timberwolves,1985-07-07
+D'Angelo Russell,PG,20.0,Los Angeles Lakers,1996-02-23
+Domantas Sabonis,PF,20.0,Oklahoma City Thunder,1996-05-03
+Larry Sanders,C,28.0,Cleveland Cavaliers,1988-11-21
+Dario Saric,PF,22.0,Philadelphia 76ers,1994-04-08
+Tomas Satoransky,SG,25.0,Washington Wizards,1991-10-30
+Dennis Schroder,PG,23.0,Atlanta Hawks,1993-09-15
+Luis Scola,PF,36.0,Brooklyn Nets,1980-04-30
+Mike Scott,PF,28.0,Atlanta Hawks,1988-07-16
+Thabo Sefolosha,SF,32.0,Atlanta Hawks,1984-05-02
+Wayne Selden,SG,22.0,New Orleans Pelicans,1994-09-30
+Wayne Selden,SG,22.0,Memphis Grizzlies,1994-09-30
+Kevin Seraphin,PF,27.0,Indiana Pacers,1989-12-07
+Ramon Sessions,PG,30.0,Charlotte Hornets,1986-04-11
+Iman Shumpert,SG,26.0,Cleveland Cavaliers,1990-06-26
+Pascal Siakam,PF,22.0,Toronto Raptors,1994-02-04
+Jonathon Simmons,SG,27.0,San Antonio Spurs,1989-09-14
+Kyle Singler,SF,28.0,Oklahoma City Thunder,1988-05-04
+Marcus Smart,SG,22.0,Boston Celtics,1994-03-06
+Ish Smith,PG,28.0,Detroit Pistons,1988-07-05
+J.R. Smith,SG,31.0,Cleveland Cavaliers,1985-09-09
+Jason Smith,C,30.0,Washington Wizards,1986-03-02
+Tony Snell,SG,25.0,Milwaukee Bucks,1991-11-10
+Marreese Speights,C,29.0,Los Angeles Clippers,1987-08-04
+Tiago Splitter,C,32.0,Philadelphia 76ers,1985-01-01
+Nik Stauskas,SG,23.0,Philadelphia 76ers,1993-10-07
+Lance Stephenson,SG,26.0,New Orleans Pelicans,1990-09-05
+Lance Stephenson,SG,26.0,Minnesota Timberwolves,1990-09-05
+Lance Stephenson,SG,26.0,Indiana Pacers,1990-09-05
+Jarnell Stokes,C,23.0,Denver Nuggets,1994-01-07
+Diamond Stone,C,19.0,Los Angeles Clippers,1997-02-10
+Rodney Stuckey,PG,30.0,Indiana Pacers,1986-04-21
+Jared Sullinger,PF,24.0,Toronto Raptors,1992-03-04
+Edy Tavares,C,24.0,Atlanta Hawks,1992-03-22
+Edy Tavares,C,24.0,Cleveland Cavaliers,1992-03-22
+Isaiah Taylor,PG,22.0,Houston Rockets,1994-07-11
+Jeff Teague,PG,28.0,Indiana Pacers,1988-06-10
+Mirza Teletovic,PF,31.0,Milwaukee Bucks,1985-09-18
+Garrett Temple,SG,30.0,Sacramento Kings,1986-05-08
+Jason Terry,SG,39.0,Milwaukee Bucks,1977-09-15
+Isaiah Thomas,PG,27.0,Boston Celtics,1989-02-07
+Lance Thomas,PF,28.0,New York Knicks,1988-04-24
+Hollis Thompson,SG,25.0,Philadelphia 76ers,1991-04-03
+Hollis Thompson,SG,25.0,New Orleans Pelicans,1991-04-03
+Klay Thompson,SG,26.0,Golden State Warriors,1990-02-08
+Tristan Thompson,C,25.0,Cleveland Cavaliers,1991-03-13
+Marcus Thornton,SG,29.0,Washington Wizards,1987-06-05
+Mike Tobey,C,22.0,Charlotte Hornets,1994-10-10
+Anthony Tolliver,PF,31.0,Sacramento Kings,1985-06-01
+Axel Toupane,SF,24.0,Milwaukee Bucks,1992-07-23
+Axel Toupane,SF,24.0,New Orleans Pelicans,1992-07-23
+Karl-Anthony Towns,C,21.0,Minnesota Timberwolves,1995-11-15
+P.J. Tucker,SF,31.0,Phoenix Suns,1985-05-05
+P.J. Tucker,SF,31.0,Toronto Raptors,1985-05-05
+Evan Turner,SF,28.0,Portland Trail Blazers,1988-10-27
+Myles Turner,C,20.0,Indiana Pacers,1996-03-24
+Beno Udrih,PG,34.0,Detroit Pistons,1982-07-05
+Tyler Ulis,PG,21.0,Phoenix Suns,1996-01-05
+Jarrod Uthoff,PF,23.0,Dallas Mavericks,1993-05-19
+Jonas Valanciunas,C,24.0,Toronto Raptors,1992-05-06
+Denzel Valentine,SG,23.0,Chicago Bulls,1993-11-16
+Fred VanVleet,PG,22.0,Toronto Raptors,1994-02-25
+Anderson Varejao,C,34.0,Golden State Warriors,1982-09-28
+Greivis Vasquez,PG,30.0,Brooklyn Nets,1987-01-16
+Rashad Vaughn,SG,20.0,Milwaukee Bucks,1996-08-16
+Noah Vonleh,PF,21.0,Portland Trail Blazers,1995-08-24
+Nikola Vucevic,C,26.0,Orlando Magic,1990-10-24
+Sasha Vujacic,SG,32.0,New York Knicks,1984-03-08
+Dwyane Wade,SG,35.0,Chicago Bulls,1982-01-17
+Dion Waiters,SG,25.0,Miami Heat,1991-12-10
+Kemba Walker,PG,26.0,Charlotte Hornets,1990-05-08
+John Wall,PG,26.0,Washington Wizards,1990-09-06
+Taurean Waller-Prince,SF,22.0,Atlanta Hawks,1994-03-22
+T.J. Warren,SF,23.0,Phoenix Suns,1993-09-05
+C.J. Watson,PG,32.0,Orlando Magic,1984-04-17
+Briante Weber,PG,24.0,Golden State Warriors,1992-12-29
+Briante Weber,PG,24.0,Charlotte Hornets,1992-12-29
+David West,C,36.0,Golden State Warriors,1980-08-29
+Russell Westbrook,PG,28.0,Oklahoma City Thunder,1988-11-12
+Okaro White,PF,24.0,Miami Heat,1992-08-13
+Isaiah Whitehead,PG,21.0,Brooklyn Nets,1995-03-08
+Hassan Whiteside,C,27.0,Miami Heat,1989-06-13
+Andrew Wiggins,SF,21.0,Minnesota Timberwolves,1995-02-23
+C.J. Wilcox,SG,26.0,Orlando Magic,1990-12-30
+Alan Williams,C,24.0,Phoenix Suns,1993-01-28
+Deron Williams,PG,32.0,Dallas Mavericks,1984-06-26
+Deron Williams,PG,32.0,Cleveland Cavaliers,1984-06-26
+Derrick Williams,PF,25.0,Miami Heat,1991-05-25
+Derrick Williams,PF,25.0,Cleveland Cavaliers,1991-05-25
+Lou Williams,SG,30.0,Los Angeles Lakers,1986-10-27
+Lou Williams,SG,30.0,Houston Rockets,1986-10-27
+Marvin Williams,PF,30.0,Charlotte Hornets,1986-06-19
+Reggie Williams,SF,30.0,New Orleans Pelicans,1964-03-05
+Reggie Williams,SF,30.0,New Orleans Pelicans,1986-09-14
+Troy Williams,SF,22.0,Memphis Grizzlies,1994-12-30
+Troy Williams,SF,22.0,Houston Rockets,1994-12-30
+Kyle Wiltjer,PF,24.0,Houston Rockets,1992-10-20
+Justise Winslow,SF,20.0,Miami Heat,1996-03-26
+Jeff Withey,C,26.0,Utah Jazz,1990-03-07
+Christian Wood,PF,21.0,Charlotte Hornets,1995-09-27
+Metta World Peace,SF,37.0,Los Angeles Lakers,1979-11-13
+Brandan Wright,PF,29.0,Memphis Grizzlies,1987-10-05
+Delon Wright,PG,24.0,Toronto Raptors,1992-04-26
+James Young,SG,21.0,Boston Celtics,1995-08-16
+Joe Young,PG,24.0,Indiana Pacers,1992-06-27
+Nick Young,SG,31.0,Los Angeles Lakers,1985-06-01
+Thaddeus Young,PF,28.0,Indiana Pacers,1988-06-21
+Cody Zeller,PF,24.0,Charlotte Hornets,1992-10-05
+Tyler Zeller,C,27.0,Boston Celtics,1990-01-17
+Stephen Zimmerman,C,20.0,Orlando Magic,1996-09-09
+Paul Zipser,SF,22.0,Chicago Bulls,1994-02-18
+Ivica Zubac,C,19.0,Los Angeles Lakers,1997-03-18
